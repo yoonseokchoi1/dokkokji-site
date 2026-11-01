@@ -1,0 +1,9 @@
+# Public pages are available to search crawlers.
+User-agent: *
+Allow: /
+
+# ChatGPT search indexing (separate from model training).
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://dokkokji.com/sitemap.xml
