@@ -94,7 +94,6 @@ const rows = `
 저녁 · 수량 한정|Dinner only · Limited portions|ディナー限定・数量限定|仅晚餐 · 限量供应
 국내산갈치 매콤한조림|Spicy braised Korean hairtail|韓国産太刀魚の辛煮|辣炖韩国带鱼
 도미머리조림|Braised sea bream head|鯛のかぶと煮|炖鲷鱼头
-금태조림|Braised blackthroat seaperch|のどぐろの煮付け|炖赤鯥
 금태구이|Grilled blackthroat seaperch|のどぐろ焼き|烤赤鯥
 일품메뉴에는 솥밥이 포함되지 않습니다.|Pot rice is not included with à la carte dishes.|一品料理に釜飯は含まれません。|单点料理不含锅饭。
 추가 메뉴 · 솥밥 변경|Add-ons & rice upgrades|追加・釜飯の変更|加点与锅饭升级
@@ -200,6 +199,34 @@ KT송파타워|KT Songpa Tower|KT松坡タワー|KT松坡大厦
 네이버에서 매장·리뷰 보기|Store details & reviews on Naver|Naverで店舗・口コミを見る|在Naver查看餐厅与评价
 캐치테이블에서 매장·리뷰 보기|Store details & reviews on Catchtable|Catchtableで店舗・口コミを見る|在Catchtable查看餐厅与评价
 네이버 예약과 캐치테이블에서 날짜와 인원을 선택해 예약할 수 있습니다. 온라인 예약은 24시간, 전화 예약은 매일 오전 10시부터 가능합니다. 예약 신청 후 각 예약 서비스의 확정 알림을 확인해 주세요. 7–12인 연결 룸은 전화로 이용 가능 여부를 문의해 주세요. 전화 문의: 02-422-0431.|Choose your date and party size on Naver Booking or Catchtable. Check the confirmation notification after requesting a reservation. Online booking is available 24 hours a day; phone reservations start at 10 a.m. For a connected room for 7–12 guests, call +82-2-422-0431 to check availability.|Naver予約またはCatchtableで日程と人数を選び、お申し込み後に確定通知をご確認ください。オンライン予約は24時間、お電話は毎日午前10時から承ります。7〜12名の連結個室は+82-2-422-0431へお問い合わせください。|请在Naver预约或Catchtable选择日期与人数，提交申请后确认平台的确认通知。在线预约全天开放，电话预约每天上午10点开始。7–12人的连通包间请致电+82-2-422-0431咨询空位。
+도꼭지 잠실점|DOKKOKJI Jamsil|DOKKOKJI 蚕室店|DOKKOKJI 蚕室店
+솥밥과 생선구이로|Pot rice and grilled fish,|釜飯と焼き魚で、|锅饭与烤鱼，
+차리는 한 상.|served together.|一膳を。|共成一席。
+잠실점 · KT송파타워 2층 · 잠실역 10번 출구 인근|Jamsil · KT Songpa Tower 2F · Near Jamsil Station Exit 10|蚕室店・KT松坡タワー2階・蚕室駅10番出口近く|蚕室店 · KT松坡大厦2楼 · 蚕室站10号出口附近
+잠실점 예약 안내|Jamsil reservations|蚕室店のご予約案内|蚕室店预约指南
+잠실점 예약|Book in Jamsil|蚕室店を予約|预约蚕室店
+잠실점 예약 안내 →|Jamsil reservations →|蚕室店のご予約案内 →|蚕室店预约指南 →
+카카오채널 추가|Add our KakaoTalk channel|カカオトークのチャンネルを追加|添加KakaoTalk频道
+매장 소식·혜택 안내 받기|Get restaurant news and benefit updates|店舗のお知らせ・特典情報を受け取る|接收餐厅消息与优惠信息
+도꼭지 소식·혜택 안내 받기|Get DOKKOKJI news and benefit updates|DOKKOKJIのお知らせ・特典情報を受け取る|接收DOKKOKJI消息与优惠信息
+메뉴를 고르셨나요?|Have you chosen your dishes?|メニューはお決まりですか？|选好菜了吗？
+카카오채널 친구 5% 할인|5% off for KakaoTalk channel friends|カカオトークチャンネル友だちは5%割引|KakaoTalk频道好友享5%优惠
+기존·신규 카카오채널 친구는 식사금액의 5%를 할인해 드립니다.|Existing and new KakaoTalk channel friends receive 5% off their meal.|既存・新規のカカオトークチャンネル友だちは、お食事代が5%割引となります。|现有及新加入的KakaoTalk频道好友可享餐费5%优惠。
+방문 시 채널 친구 화면을 직원에게 보여 주세요.|When you visit, please show your channel friend screen to our staff.|ご来店時に、チャンネル友だち画面をスタッフにご提示ください。|到店时请向店员出示频道好友页面。
+예약 1건당 1회 · 다른 할인과 중복 불가 · 별도 종료 공지 전까지|Once per reservation · Cannot be combined with other discounts · Valid until further notice|ご予約1件につき1回・他の割引との併用不可・終了のお知らせまで|每笔预约限用一次 · 不可与其他优惠叠加 · 有效至另行通知
+도꼭지의 소식을 카카오톡으로 만나보세요.|Get DOKKOKJI news on KakaoTalk.|DOKKOKJIのお知らせをカカオトークで。|通过KakaoTalk接收DOKKOKJI的消息。
+기존·신규 친구 모두 5% 할인 혜택과 매장 소식을 확인하세요.|Existing and new channel friends can find the 5% discount and restaurant news.|既存・新規の友だちの皆様は、5%割引特典と店舗のお知らせをご確認ください。|现有及新加入的频道好友均可查看5%优惠和餐厅消息。
+도꼭지 잠실점에서 만나요|Visit DOKKOKJI Jamsil|DOKKOKJI蚕室店でお待ちしています|欢迎光临DOKKOKJI蚕室店
+현재 방문 및 예약은 도꼭지 잠실점(공식 매장명: 도꼭지 KT송파타워점)에서 가능합니다. 서울 송파구 잠실로 209, KT송파타워 2층에서 만나요. 마포점(서울 마포구 백범로10길 30)은 영업을 종료했습니다.|Visits and reservations are currently available at DOKKOKJI Jamsil (official listing: DOKKOKJI KT Songpa Tower), on the second floor of KT Songpa Tower, 209 Jamsil-ro, Songpa-gu, Seoul. The Mapo location at 30 Baekbeom-ro 10-gil, Mapo-gu, Seoul has closed.|現在、ご来店・ご予約はDOKKOKJI蚕室店（正式店舗名：DOKKOKJI KT松坡タワー店）で承ります。所在地はソウル市松坡区蚕室路209、KT松坡タワー2階です。ソウル市麻浦区白凡路10キル30の麻浦店は閉店しました。|目前可到访及预约的是DOKKOKJI蚕室店（官方店名：DOKKOKJI KT松坡塔店），地址为首尔市松坡区蚕室路209号KT松坡大厦2楼。位于首尔市麻浦区白凡路10街30号的麻浦店已停止营业。
+현재 운영 매장은 어디인가요?|Which location is currently open?|現在営業している店舗はどこですか？|目前营业的是哪家门店？
+잠실점 위치와 지도 보기|View the Jamsil location and map|蚕室店の所在地と地図を見る|查看蚕室店位置与地图
+가족 모임을 준비하시나요?|Planning a family gathering?|ご家族のお集まりを計画中ですか？|正在筹备家庭聚会吗？
+잠실 가족식사와 룸 안내|Family dining and private rooms in Jamsil|蚕室での家族のお食事・個室案内|蚕室家庭聚餐与包间指南
+2–6인 룸과 7–12인 연결 룸, 메뉴별 예산과 주차 정보를 한곳에서 확인하세요.|Find private rooms for 2–6, connected rooms for 7–12, menu budgets and parking information in one place.|2〜6名の個室、7〜12名の連結個室、メニュー別の予算と駐車場の情報をまとめてご覧ください。|在此查看2–6人包间、7–12人连通包间、菜单预算及停车信息。
+가족식사·룸 이용 자세히 보기 →|Family dining and room details (Korean) →|家族のお食事・個室の詳細（韓国語）→|家庭聚餐与包间详情（韩语）→
+브라우저에서 영상을 재생할 수 없습니다.|Your browser cannot play this video.|お使いのブラウザでは動画を再生できません。|您的浏览器无法播放此视频。
+영상 재생을 지원하지 않는 브라우저입니다.|Your browser does not support video playback.|お使いのブラウザは動画再生に対応していません。|您的浏览器不支持视频播放。
+공간 영상 보기|Watch the space tour video|店内紹介動画を見る|观看店内环境视频
 `.trim().split(/\r?\n/).filter(line=>line.trim()).map(line=>line.split('|')).filter(row=>row[0]?.trim());
 const spanish = {
 "도꼭지 KT송파타워점 · 잠실역 10번 출구 인근":"DOKKOKJI KT Songpa Tower · Cerca de la salida 10 de la estación Jamsil",
@@ -275,7 +302,6 @@ const spanish = {
   "저녁 · 수량 한정": "Solo en la cena · Unidades limitadas",
   "국내산갈치 매콤한조림": "Pez sable de Corea guisado en salsa picante",
   "도미머리조림": "Cabeza de dorada guisada",
-  "금태조림": "Perca de garganta negra guisada",
   "금태구이": "Perca de garganta negra a la parrilla",
   "일품메뉴에는 솥밥이 포함되지 않습니다.": "Los platos a la carta no incluyen arroz en olla.",
   "추가 메뉴 · 솥밥 변경": "Extras y cambios de arroz",
@@ -410,7 +436,7 @@ const spanish = {
   "도미솥밥 · 전복솥밥": "Arroz con dorada · Arroz con abulón",
   "각 29,000원": "29.000 KRW cada uno",
   "35,000원": "35.000 KRW",
-  "예산 예시: 4명이 도미솥밥을 1개씩 주문하고 룸 1개를 이용하면 식사 116,000원 + 룸 20,000원 = 136,000원입니다. 추가 메뉴·음료는 별도이며, 이 예시는 예약금이나 선결제 금액이 아닙니다.": "Ejemplo de presupuesto: para 4 personas, un arroz con dorada por persona y una sala privada cuestan 116.000 KRW de comida + 20.000 KRW de sala = 136.000 KRW. Los extras y las bebidas se cobran aparte. Este ejemplo no es un depósito de reserva ni un importe de pago anticipado.",
+  "예산 예시: 4명이 도미솥밥을 1개씩 주문하고 룸 1개를 이용하면 식사 116,000원 + 룸 20,000원 = 136,000원입니다. 추가 메뉴·음료는 별도입니다.": "Ejemplo de presupuesto: para 4 personas, un arroz con dorada por persona y una sala privada cuestan 116.000 KRW de comida + 20.000 KRW de sala = 136.000 KRW. Los extras y las bebidas se cobran aparte.",
   "전체 메뉴와 가격 보기 →": "Ver toda la carta y los precios →",
   "방문 전에": "Antes de venir",
   "위치·주차·영업시간": "Ubicación, aparcamiento y horario",
@@ -425,7 +451,7 @@ const spanish = {
   "가족식사 예약": "Reservas para comidas familiares",
   "날짜와 인원을 정하셨나요?": "¿Ya tienen fecha y número de personas?",
   "방문 날짜·시간·인원과 홀 또는 룸을 정해 주세요.": "Elijan fecha, hora, número de personas y mesa en el comedor o sala privada.",
-  "예약 서비스에서 이용 가능한 좌석과 예약금·취소 조건을 확인해 주세요.": "Consulten los asientos disponibles, el depósito y las condiciones de cancelación en el servicio de reservas.",
+  "예약 서비스에서 이용 가능한 좌석과 취소 조건을 확인해 주세요.": "Consulten los asientos disponibles y las condiciones de cancelación en el servicio de reservas.",
   "예약 신청 후 해당 서비스의 확정 알림을 확인해 주세요.": "Tras solicitar la reserva, comprueben la notificación de confirmación del servicio.",
   "온라인 예약은 24시간 가능합니다. 7–12인 연결 룸 또는 자세한 문의는 매일 오전 10시부터 전화로 안내합니다.": "Pueden reservar en línea las 24 horas. Para salas comunicadas de 7–12 personas y otras consultas, atendemos por teléfono a diario desde las 10:00.",
   "네이버 예약 (새 창)": "Reservar en Naver (nueva pestaña)",
@@ -446,6 +472,36 @@ const spanish = {
   "가입 화면은 한국어로 제공됩니다. 휴대폰 번호 입력이 어려우시면 직원에게 문의해 주세요.": "El formulario está en coreano. Si necesita ayuda para introducir su número de móvil, consulte con el personal.",
   "카카오톡 채널 보기": "Ver el canal de KakaoTalk"
 };
+Object.assign(spanish, {
+  "도꼭지 잠실점": "DOKKOKJI Jamsil",
+  "솥밥과 생선구이로": "Arroz en olla y pescado a la parrilla,",
+  "차리는 한 상.": "servidos en una misma mesa.",
+  "잠실점 · KT송파타워 2층 · 잠실역 10번 출구 인근": "Jamsil · KT Songpa Tower, 2.ª planta · Cerca de la salida 10 de Jamsil",
+  "잠실점 예약 안내": "Reservas en Jamsil",
+  "잠실점 예약": "Reservar en Jamsil",
+  "잠실점 예약 안내 →": "Reservas en Jamsil →",
+  "카카오채널 추가": "Añadir nuestro canal de KakaoTalk",
+  "매장 소식·혜택 안내 받기": "Recibir noticias y beneficios del restaurante",
+  "도꼭지 소식·혜택 안내 받기": "Recibir noticias y beneficios de DOKKOKJI",
+  "메뉴를 고르셨나요?": "¿Ya han elegido sus platos?",
+  "카카오채널 친구 5% 할인": "5% de descuento para amigos del canal de KakaoTalk",
+  "기존·신규 카카오채널 친구는 식사금액의 5%를 할인해 드립니다.": "Los amigos actuales y nuevos del canal de KakaoTalk reciben un 5% de descuento en la comida.",
+  "방문 시 채널 친구 화면을 직원에게 보여 주세요.": "Al llegar, muestren al personal la pantalla de amigos del canal.",
+  "예약 1건당 1회 · 다른 할인과 중복 불가 · 별도 종료 공지 전까지": "Una vez por reserva · No acumulable con otros descuentos · Hasta nuevo aviso",
+  "도꼭지의 소식을 카카오톡으로 만나보세요.": "Reciban las noticias de DOKKOKJI en KakaoTalk.",
+  "기존·신규 친구 모두 5% 할인 혜택과 매장 소식을 확인하세요.": "Los amigos actuales y nuevos pueden consultar el descuento del 5% y las noticias del restaurante.",
+  "도꼭지 잠실점에서 만나요": "Nos vemos en DOKKOKJI Jamsil",
+  "현재 방문 및 예약은 도꼭지 잠실점(공식 매장명: 도꼭지 KT송파타워점)에서 가능합니다. 서울 송파구 잠실로 209, KT송파타워 2층에서 만나요. 마포점(서울 마포구 백범로10길 30)은 영업을 종료했습니다.": "Actualmente pueden visitarnos y reservar en DOKKOKJI Jamsil (nombre oficial: DOKKOKJI KT Songpa Tower), en la segunda planta de KT Songpa Tower, 209 Jamsil-ro, Songpa-gu, Seúl. La sede de Mapo, en 30 Baekbeom-ro 10-gil, Mapo-gu, Seúl, ha cerrado.",
+  "현재 운영 매장은 어디인가요?": "¿Qué sede está abierta actualmente?",
+  "잠실점 위치와 지도 보기": "Ver la ubicación y el mapa de Jamsil",
+  "가족 모임을 준비하시나요?": "¿Preparan una reunión familiar?",
+  "잠실 가족식사와 룸 안내": "Comidas familiares y salas privadas en Jamsil",
+  "2–6인 룸과 7–12인 연결 룸, 메뉴별 예산과 주차 정보를 한곳에서 확인하세요.": "Consulten en un solo lugar las salas para 2–6 personas, las salas comunicadas para 7–12, los presupuestos y el aparcamiento.",
+  "가족식사·룸 이용 자세히 보기 →": "Más información sobre comidas familiares y salas →",
+  "브라우저에서 영상을 재생할 수 없습니다.": "Su navegador no puede reproducir este vídeo.",
+  "영상 재생을 지원하지 않는 브라우저입니다.": "Su navegador no admite la reproducción de vídeo.",
+  "공간 영상 보기": "Ver el vídeo de los espacios"
+});
 const missingSpanish=rows.filter(row=>!spanish[row[0]]).map(row=>row[0]);
 if(missingSpanish.length)console.warn('Missing Spanish translations',missingSpanish);
 const dictionary=new Map(rows.map(row=>[row[0],[...row,spanish[row[0]]||row[0]]]));
@@ -467,6 +523,8 @@ const attributeRows = [
 ['도꼭지 룸과 홀 둘러보기, 15초 무음 영상','Private rooms and dining area, 15-second silent video','個室と店内・15秒の無音動画','包间与大厅，15秒无声视频']
 ];
 const spanishAria={"도꼭지 처음으로":"Inicio de DOKKOKJI","주요 메뉴":"Navegación principal","모바일 바로가기":"Navegación móvil","메뉴 종류":"Categorías de la carta","도꼭지의 음식 사진":"Platos de DOKKOKJI","금태 굽기와 솥밥, 상차림을 담은 11초 무음 영상":"Pescado a la parrilla y arroz en olla, vídeo de 11 segundos sin sonido","도꼭지 룸과 홀 둘러보기, 15초 무음 영상":"Salas privadas y comedor, vídeo de 15 segundos sin sonido"};
+attributeRows.push(...[["Language / 언어", "Language", "言語", "语言"], ["카카오채널 친구 할인", "KakaoTalk channel friend discount", "カカオトークチャンネル友だち割引", "KakaoTalk频道好友优惠"], ["도꼭지 카카오채널", "DOKKOKJI KakaoTalk channel", "DOKKOKJIカカオトークチャンネル", "DOKKOKJI的KakaoTalk频道"], ["잠실점 방문 및 마포점 영업 종료 안내", "Jamsil visits and Mapo closure information", "蚕室店のご案内・麻浦店閉店のお知らせ", "蚕室店到访及麻浦店停业说明"]]);
+Object.assign(spanishAria,{"Language / 언어": "Idioma", "카카오채널 친구 할인": "Descuento para amigos del canal de KakaoTalk", "도꼭지 카카오채널": "Canal de KakaoTalk de DOKKOKJI", "잠실점 방문 및 마포점 영업 종료 안내": "Visitas a Jamsil y cierre de Mapo"});
 const attrMap=new Map(attributeRows.map(r=>[r[0],[...r,spanishAria[r[0]]]]));
 const attributes=[...document.querySelectorAll('[aria-label]')].filter(el=>attrMap.has(el.getAttribute('aria-label'))).map(el=>({el,key:el.getAttribute('aria-label')}));
 const imageLabels=[
@@ -500,7 +558,8 @@ if(bookingNote)bookingNote.textContent=['','The booking service may use a differ
 const copyStatus=document.getElementById('copy-status');if(copyStatus)copyStatus.textContent='';
 metadata.forEach(({el,original})=>{
   const kind=el.getAttribute('property');
-  el.content=lang!=='es'?original:kind==='og:locale'?'es_ES':kind==='og:title'?titles[index]:isGuide?'Comidas familiares en DOKKOKJI, Jamsil: salas para 2–12 personas, precios, 90 minutos de uso, aparcamiento gratuito durante 2 horas y reservas.':'Cocina coreana en Jamsil, Seúl. Arroz en olla con dorada, abulón o perca de garganta negra, pescado a la parrilla, salas para 2–12 personas y reservas en Naver o Catchtable.';
+  const descriptions={en:'DOKKOKJI in Jamsil, Seoul: pot rice, grilled fish and private rooms for 2–12 guests. Menu, prices and reservations.',ja:'ソウル・蚕室のDOKKOKJI。釜飯と焼き魚、2〜12名の個室。メニュー・料金・ご予約をご案内します。',zh:'首尔蚕室DOKKOKJI：锅饭、烤鱼及2–12人包间。查看菜单、价格和预约指南。'};
+  el.content=lang==='ko'?original:kind==='og:locale'?({en:'en_US',ja:'ja_JP',zh:'zh_CN'})[lang]:kind==='og:title'?titles[index]:descriptions[lang];
 });
 siteLinks.forEach(({el,original})=>{if(lang==='ko'){el.setAttribute('href',original);return;}const target=new URL(original,location.href);target.searchParams.set('lang',lang);el.setAttribute('href',target.pathname+target.search+target.hash);});
 try{localStorage.setItem('dokkokji-language',lang);}catch{}
